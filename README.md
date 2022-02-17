@@ -1,18 +1,18 @@
 # **HTML-CSS**
 
 ## *desafios*
-- [d001 - Parágrafos e quebras de linhas](https://fernandolink.github.io/HTML-CSS/desafios/d001/index.html).
-- [d002 - Duas imagens: uma no conteúdo da página e um ícone de favoritos](https://fernandolink.github.io/HTML-CSS/desafios/d002/index.html).
-- [d003 - Mapa Mundi: imagens, parágrafos e quebras de linha](https://fernandolink.github.io/HTML-CSS/desafios/d003/index.html).
-- [d004 - Listas e emojis](https://fernandolink.github.io/HTML-CSS/desafios/d004/index.html).
-- [d005 - Imagens e links](https://fernandolink.github.io/HTML-CSS/desafios/d005/index.html).
-- [d006 - Listas e tags](https://fernandolink.github.io/HTML-CSS/desafios/d006/index.html).
-- [d007 - Imagem responsiva](https://fernandolink.github.io/HTML-CSS/desafios/d007/index.html).
-- [d008 - Navegação entre páginas](https://fernandolink.github.io/HTML-CSS/desafios/d008/index.html).
-- [d009 - Vídeos](https://fernandolink.github.io/HTML-CSS/desafios/d009/index.html).
+- [d001 - Parágrafos e quebras de linhas.](https://fernandolink.github.io/HTML-CSS/desafios/d001/index.html)
+- [d002 - Duas imagens: uma no conteúdo da página e um ícone de favoritos.](https://fernandolink.github.io/HTML-CSS/desafios/d002/index.html)
+- [d003 - Mapa Mundi: imagens, parágrafos e quebras de linha.](https://fernandolink.github.io/HTML-CSS/desafios/d003/index.html)
+- [d004 - Listas e emojis.](https://fernandolink.github.io/HTML-CSS/desafios/d004/index.html)
+- [d005 - Imagens e links.](https://fernandolink.github.io/HTML-CSS/desafios/d005/index.html)
+- [d006 - Listas e tags.](https://fernandolink.github.io/HTML-CSS/desafios/d006/index.html)
+- [d007 - Imagem responsiva.](https://fernandolink.github.io/HTML-CSS/desafios/d007/index.html)
+- [d008 - Navegação entre páginas.](https://fernandolink.github.io/HTML-CSS/desafios/d008/index.html)
+- [d009 - Vídeos.](https://fernandolink.github.io/HTML-CSS/desafios/d009/index.html)
 - d010 - Site do Android.
-- [d011 - Imagem espaço e astronauta](https://fernandolink.github.io/HTML-CSS/desafios/d012/index.html).
-- [d012 - Projeto Cordel](https://fernandolink.github.io/HTML-CSS/desafios/d012/index.html).
+- [d011 - Imagem espaço e astronauta.](https://fernandolink.github.io/HTML-CSS/desafios/d012/index.html)
+- [d012 - Projeto Cordel.](https://fernandolink.github.io/HTML-CSS/desafios/d012/index.html)
   
 ***
 
