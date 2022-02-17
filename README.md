@@ -11,26 +11,26 @@
 - [d008 - Navegação entre páginas.](https://fernandolink.github.io/HTML-CSS/desafios/d008/index.html)
 - [d009 - Vídeos.](https://fernandolink.github.io/HTML-CSS/desafios/d009/index.html)
 - d010 - Site do Android.
-- [d011 - Imagem espaço e astronauta.](https://fernandolink.github.io/HTML-CSS/desafios/d012/index.html)
+- [d011 - Imagem espaço e astronauta.](https://fernandolink.github.io/HTML-CSS/desafios/d011/index.html)
 - [d012 - Projeto Cordel.](https://fernandolink.github.io/HTML-CSS/desafios/d012/index.html)
   
 ***
 
 ## *exercicios*
-- ex001 - Olá Mundo.
-- ex002 - Parágrafos, quebras de linhas e símbolos.
-- ex003 - Imagens internas e externas.
-- ex004 - Favicon.
-- ex006 - Hierarquia de títulos.
-- ex007 - Formatação de textos (negrito, itálico, marcado, pequeno, deletado, inserido, sobrescrito, subscrito).
-- ex008 - Outras formatações (código, citação, abreviação, invertido).
-- ex009 - Listas.
-- ex010 - Link internos, externos e downloads.
-- ex011 - Imagem e áudio.
-- ex012 - Vídeo interno e externo.
-- ex013 - Estilos inline.
-- ex014 - Estilos internos.
-- ex015 - Estilos externos.
+- [ex001 - Olá Mundo.](https://fernandolink.github.io/HTML-CSS/exercicios/ex001/index.html)
+- [ex002 - Parágrafos, quebras de linhas e símbolos.](https://fernandolink.github.io/HTML-CSS/exercicios/ex002/index.html)
+- [ex003 - Imagens internas e externas.](https://fernandolink.github.io/HTML-CSS/exercicios/ex003/index.html)
+- [ex004 - Favicon.](https://fernandolink.github.io/HTML-CSS/exercicios/ex004/index.html)
+- [ex006 - Hierarquia de títulos.](https://fernandolink.github.io/HTML-CSS/exercicios/ex006/index.html)
+- [ex007 - Formatação de textos (negrito, itálico, marcado, pequeno, deletado, inserido, sobrescrito, subscrito).](https://fernandolink.github.io/HTML-CSS/exercicios/ex007/index.html)
+- [ex008 - Outras formatações (código, citação, abreviação, invertido).](https://fernandolink.github.io/HTML-CSS/exercicios/ex008/index.html)
+- [ex009 - Listas.](https://fernandolink.github.io/HTML-CSS/exercicios/ex009/index.html)
+- [ex010 - Link internos, externos e downloads.](https://fernandolink.github.io/HTML-CSS/exercicios/ex010/index.html)
+- [ex011 - Imagem e áudio.](https://fernandolink.github.io/HTML-CSS/exercicios/ex011/index.html)
+- [ex012 - Vídeo interno e externo.](https://fernandolink.github.io/HTML-CSS/exercicios/ex012/index.html)
+- [ex013 - Estilos inline.](https://fernandolink.github.io/HTML-CSS/exercicios/ex013/index.html)
+- [ex014 - Estilos internos.](https://fernandolink.github.io/HTML-CSS/exercicios/ex014/index.html)
+- [ex015 - Estilos externos.](https://fernandolink.github.io/HTML-CSS/exercicios/ex015/index.html)
 - ex016 - Cores e gradiente.
 - ex017 - Fontes e alinhamentos.
 - ex018 - Fontes externas e google fonts.
