@@ -12,7 +12,7 @@
 - d009 - Vídeos.
 - d010 - Site do Android.
 - d011 - Imagem espaço e astronauta.
-- d012 - Projeto Cordel.
+- [d012 - Projeto Cordel](https://fernandolink.github.io/HTML-CSS/desafios/d012/index.html).
   
 ***
 
