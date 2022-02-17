@@ -34,5 +34,5 @@
 - ex018 - Fontes externas e google fonts.
 - ex019 - Seletores id e class.
 - ex020 - Pseudo-classes, hover e links.
-- ex021 - Caixas, grupo de tags e bordas com imagens.    
-
+- ex021 - Caixas, grupo de tags e bordas com imagens.  
+- ex022 - Background color/image. 
