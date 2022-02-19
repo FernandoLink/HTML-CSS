@@ -65,4 +65,4 @@
    * [Alinhamento de tabelas.](https://fernandolink.github.io/HTML-CSS/exercicios/ex023/tabela001.html)
    * [Tabelas grandes, escopo, zebrado e cabeçalho fixo.](https://fernandolink.github.io/HTML-CSS/exercicios/ex023/tabela002.html)
    * [Mesclagem de células.](https://fernandolink.github.io/HTML-CSS/exercicios/ex023/tabela003.html)
-   * [TODO:](https://fernandolink.github.io/HTML-CSS/exercicios/ex023/tabela004.html)
+   * [Tabela completa.](https://fernandolink.github.io/HTML-CSS/exercicios/ex023/tabela004.html)
