@@ -58,3 +58,8 @@
   * [Posicionamente imagem interna.](https://fernandolink.github.io/HTML-CSS/exercicios/ex022/fundo005.html)
   * [Fundo fixo de tela.](https://fernandolink.github.io/HTML-CSS/exercicios/ex022/fundo006.html)
   * [Alinhamento vertical.](https://fernandolink.github.io/HTML-CSS/exercicios/ex022/fundo007.html)
+- ex023 - Tabelas.
+   * [Alinhamento de tabelas.](https://fernandolink.github.io/HTML-CSS/exercicios/ex023/tabela001.html)
+   * [Tabelas grandes, escopo, zebrado e cabeçalho fixo.](https://fernandolink.github.io/HTML-CSS/exercicios/ex023/tabela002.html)
+   * [Mesclagem de células.](https://fernandolink.github.io/HTML-CSS/exercicios/ex023/tabela003.html)
+   * [TODO:](https://fernandolink.github.io/HTML-CSS/exercicios/ex023/tabela004.html)
