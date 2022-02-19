@@ -68,3 +68,4 @@
    * [Mesclagem de células.](https://fernandolink.github.io/HTML-CSS/exercicios/ex023/tabela003.html)
    * [Tabela completa.](https://fernandolink.github.io/HTML-CSS/exercicios/ex023/tabela004.html)
    * [Tabela com destaque na coluna.](https://fernandolink.github.io/HTML-CSS/exercicios/ex023/tabela005.html)
+   * [Tabelas responsivas.](https://fernandolink.github.io/HTML-CSS/exercicios/ex023/tabela006.html)
