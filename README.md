@@ -13,6 +13,9 @@
 - [d010 - Site do Android.](https://fernandolink.github.io/HTML-CSS/desafios/d010)
 - [d011 - Imagem espaço e astronauta.](https://fernandolink.github.io/HTML-CSS/desafios/d011)
 - [d012 - Projeto Cordel.](https://fernandolink.github.io/HTML-CSS/desafios/d012)
+- d013 - Tabelas.
+  * [Desafio 13.1.](https://fernandolink.github.io/HTML-CSS/desafios/d013/desafio-13-01.html)
+  * [Desafio 13.2.](https://fernandolink.github.io/HTML-CSS/desafios/d013/desafio-13-02.html)
   
 ***
 
