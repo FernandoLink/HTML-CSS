@@ -16,6 +16,7 @@
 - d013 - Tabelas.
   * [Desafio 13.1.](https://fernandolink.github.io/HTML-CSS/desafios/d013/desafio-13-01.html)
   * [Desafio 13.2.](https://fernandolink.github.io/HTML-CSS/desafios/d013/desafio-13-02.html)
+- [d014 - Tabelas.](https://fernandolink.github.io/HTML-CSS/desafios/d014)
   
 ***
 
